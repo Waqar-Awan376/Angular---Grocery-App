@@ -10,6 +10,7 @@ export class PurchaseHistoryComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+
   }
 
 }

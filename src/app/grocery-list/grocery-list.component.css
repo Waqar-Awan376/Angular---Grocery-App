@@ -1,0 +1,23 @@
+.fields-row
+{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 50px;
+}
+.margin-right-10
+{
+  margin-right: 10px;
+}
+.margin-left-10
+{
+  margin-left: 10px;
+}
+.width-120
+{
+  width: 120px;
+}
+.text-align-center
+{
+  text-align: center;
+}
